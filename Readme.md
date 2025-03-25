@@ -1,3 +1,8 @@
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Built by Moulaye Sidi Dahi](https://img.shields.io/badge/Built%20by-Moulaye%20Sidi%20Dahi-brightgreen)](https://www.linkedin.com/in/moulayesididahi)
+
+
 # ⚖️ LegalDocRAG — Agentic RAG AI for Legal Document Analysis
 
 LegalDocRAG is a fully local, Retrieval-Augmented Generation (RAG)-powered assistant fine-tuned on legal documents.  
@@ -92,8 +97,4 @@ This project uses a modified Apache 2.0 License:
 [ ] Auto-RAG injection with document classification
 
 [ ] CI/CD & Hugging Face Demo
-
-
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Built by Moulaye Sidi Dahi](https://img.shields.io/badge/Built%20by-Moulaye%20Sidi%20Dahi-brightgreen)](https://www.linkedin.com/in/moulayesididahi)
 
