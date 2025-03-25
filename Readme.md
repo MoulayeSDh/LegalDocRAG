@@ -48,7 +48,7 @@ To run the monolithic version of LegalDocRAG:
 ```
 git clone https://github.com/MoulayeSDh/LegalDocRAG.git
 cd LegalDocRAG/Monolithic
-python legal_agent.py
+python LegalDocRAG_V1.py
 ```
 You’ll be prompted with:
 
