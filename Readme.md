@@ -51,7 +51,8 @@ You’ll be prompted with:
 🔎 LegalDocRAG is running. Ask your legal questions.
 You:
 
-
+ **docs_dir:**  must be replaced it with your actual documents path for the fine-tuning
+ 
 💡 Example Use Cases
 
 🧾 Contract Analysis: “What clauses are missing from this NDA?”
@@ -61,7 +62,7 @@ You:
 📚 Regulation Comparison: “Difference between GDPR and CCPA?”
 
 
-##📌 Conditions of Use
+## 📌  Conditions of Use
 
 This project is 100% open-source, but attribution is required.
 
