@@ -43,7 +43,11 @@ pip install torch transformers accelerate peft datasets llama-index qdrant-clien
 docker run -p 6333:6333 qdrant/qdrant
 ```
 3️⃣ Run the Agent
+To run the monolithic version of LegalDocRAG:
+
 ```
+git clone https://github.com/MoulayeSDh/LegalDocRAG.git
+cd LegalDocRAG/Monolithic
 python legal_agent.py
 ```
 You’ll be prompted with:
